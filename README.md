@@ -12,6 +12,8 @@ pip install -r requirements.txt
 
 Edit `SERIAL_PATH` in _record.py_.
 
+On Linux, run `sudo usermod -a -G dialout [you user name]`.
+
 ## Run
 
 ```sh
